@@ -1,0 +1,15 @@
+D:\VB\Maç tahmin Sonuçları\bin\Debug\Maç tahmin Sonuçları.exe.config
+D:\VB\Maç tahmin Sonuçları\bin\Debug\Maç tahmin Sonuçları.exe
+D:\VB\Maç tahmin Sonuçları\bin\Debug\Maç tahmin Sonuçları.pdb
+D:\VB\Maç tahmin Sonuçları\bin\Debug\Interop.WMPLib.dll
+D:\VB\Maç tahmin Sonuçları\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.csprojAssemblyReference.cache
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Interop.WMPLib.dll
+D:\VB\Maç tahmin Sonuçları\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.csproj.ResolveComReference.cache
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç_tahmin_Sonuçları.Form1.resources
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç_tahmin_Sonuçları.Properties.Resources.resources
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.csproj.GenerateResource.cache
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.exe
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.pdb
+D:\VB\Maç tahmin Sonuçları\obj\Debug\Maç tahmin Sonuçları.csproj.CoreCompileInputs.cache
